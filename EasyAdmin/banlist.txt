@@ -1,0 +1,20 @@
+﻿license:86a1d9c2203f468366d3b4717ae8ce575d1c0eed;BLACKLIST ( Nickname: ASU ), Banned by: Vexo
+license:060cc4c9aa84f464939f988f0a05d3f44c9d5f2a;BLACKLIST (Nickname: MyZone ), Banned by: Vexo
+license:70573303b5e9efbd21de0daac5b6cbcfcf0bf744;BLACKLIST ( Nickname: Shadowvsky! ), Banned by: Vexo
+license:efe95a50538967fc71297d0498d26fb6782b2881;BLACKLIST ( Nickname: Oi ), Banned by: Vexo
+license:dfc61ae7b20032e8b2f5cc86160eef643ee82e48;BLACKLIST ( Nickname: SOJSON ), Banned by: Vexo
+license:84aae6e59a5bfddaabf4107c9b1ea0899a130940;BLACKLIST CHEAT ( Nickname: Serek ), Banned by: Vexo
+license:68346bf508ac97776fc363e8e29d40a4c453b8c7;BLACKLIST CHEAT ( Nickname: Fenek ), Banned by: Vexo
+license:dbd35fa30d8234033fd4a2216dc8fbaa8887b2ce;BLACKLIST CHEAT ( Nickname: K/\MIL3K ), Banned by: Vexo
+license:e7b8ea9d31754a4421817127d3bdcef98a3769e9;BLACKLIST CHEAT( Nickname: Mati csgoloto.com ), Banned by: Vexo
+license:60f3d9161e0753812914ed0c48523b74edccc7c6;BLACKLIST CHEAT ( Nickname: ** HRS ** ROCCAT ), Banned by: Vexo
+license:6523be75064b9a10cfa9a2279b1128b8de215a22;BLACKLIST CHEAT ( Nickname: JD JD JD ), Banned by: Vexo
+license:e835882d8f0f8c1c58d87a99393f9338812500a3;BLACKLIST CHEAT ( Nickname: pioes666 ), Banned by: Vexo
+license:aeb4bed5240e535845bfac2946d3250b221037b7;BLACKLIST Cheat (tp robi) ( Nickname: SzopPracz ), Banned by: ⫸IraQ⫷
+license:c3cb2a7b4335910add7accc3d024271bef245364;BLACKLIST Cheat (tp typ robi) ( Nickname: v2 ), Banned by: ⫸IraQ⫷
+license:2c589c6513186623fa4a0128d0d9bd176b6e9453;BLACKLIST VEXO ( Nickname: Luba ), Banned by: Vexo
+license:cd97e761df4728af02ff0c8bb400fbfefab5c955;BLACKLIST VEXO ( Nickname: Mateo ), Banned by: Vexo
+license:981ad99f2eecc7fd5090283ac59fc3010e8ca2b5;BLACKLIST VEXO ( Nickname: Codexu ), Banned by: Vexo
+license:7643949ce03830c0979ebfc66a75c67052a1ecf5;BLACKLIST VEXO ( Nickname: JebanyCwelGuzior ), Banned by: Vexo
+license:ac569a09a8934aa6d5752fbd6b7276b6ab889066;wypad ( Nickname: Kurwon ), Banned by: Urbi
+license:0d31efda255da07a3a92744b7bc8392b903eec07;wypad to jest serwer rp ( Nickname: crips ), Banned by: Urbi

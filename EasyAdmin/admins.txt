@@ -1,0 +1,3 @@
+steam: steam:11000010c04f320
+license:examplelicence
+ip: 185.153.35.241
